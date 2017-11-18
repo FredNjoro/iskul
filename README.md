@@ -1,0 +1,2 @@
+# iskul
+school management system
